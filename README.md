@@ -38,7 +38,7 @@ Data is combined into one big data frame to simplify the analysis process then w
 * Add columns that list the date, month, day, and year of each ride because this will allow us to aggregate ride data for each month, day, or year ... before completing these operations we could only aggregate at the ride level.
 * Add a "ride_length" calculation to all_trips (in seconds)
 * Remove "bad" data as the dataframe includes a few hundred entries when bikes were taken out of docks and checked for quality by Divvy or ride_length was negative.
-### Conducting Discriptive Analysis
+### Conducting Descriptive Analysis
 Firstly, we need to perform our analysis on ride_length (all figures in seconds). Statistics like the average, median, max and minimum ride length would give us a glimpse of the meaning of our data. To answer the question of Moreno, we need to compare members and casual users in average ride time & number by each day. The data analysis findings are interesting and suggests that the casual riders use the bikes more in time while the member are more in the number of rides.
 
 
